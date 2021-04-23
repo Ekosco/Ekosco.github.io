@@ -14,7 +14,7 @@ body {
     border-radius: 5px;
     display: flex;
     width: 30vw;
-    min-height: 30vw;
+    height: 30vw;
     padding: 4px 4px;
     text-align: center;
     float: left;
