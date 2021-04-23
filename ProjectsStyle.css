@@ -9,6 +9,7 @@ body {
 }
 .cards {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 .card {
@@ -21,6 +22,7 @@ body {
     padding: 4px 4px;
     margin: 10px;
     background-color: white;
+    flex: 0 1 24%;
 }
 /*div.card {
     overflow: hidden;
