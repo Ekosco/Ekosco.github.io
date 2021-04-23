@@ -13,7 +13,6 @@ body {
     border-radius: 5px;
     display: inline-block;
     max-width: 300px;
-    height: 1000px;
     padding: 4px 4px;
     margin: 10px;
     background-color: white;
@@ -33,7 +32,6 @@ h1 {
 }
 
 nav {
-    background-color: crimson;
     float: left;
     height: 90vh;
     padding: 15px;
