@@ -31,12 +31,6 @@ h1 {
     color: crimson;
 }
 
-nav {
-    float: left;
-    height: 90vh;
-    padding: 15px;
-}
-
 #container {
     padding: 2px 16px;
 }
