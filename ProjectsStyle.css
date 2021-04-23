@@ -4,19 +4,18 @@ body {
 
 #img {
     border-radius: 5px 5px 0 0;
-    width: 100%;
+    width: 100%
 }
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     border-radius: 5px;
-    display: inline;
-    max-width: 1000px;
+    display: inline-block;
+    max-width: 300px;
     padding: 4px 4px;
     margin: 10px;
     background-color: white;
-    align-content: center;
 }
 
     .card :hover {
@@ -28,7 +27,7 @@ body {
 h1 {
     text-align: center;
     font-size: 300%;
-    color: crimson;
+    color: darkred;
 }
 
 #container {
