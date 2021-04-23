@@ -47,3 +47,6 @@ li a:hover {
     transition: transform 3s ease-in-out;
     transform: rotate(9000deg) scale(4);
 }
+body{
+    background-color: mistyrose;
+}

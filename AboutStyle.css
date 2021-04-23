@@ -4,7 +4,7 @@ body {
 
 #img {
     border-radius: 5px 5px 0 0;
-    width: 50%
+    width: 25%
 }
 
 .card {
@@ -29,6 +29,13 @@ h1 {
     text-align: center;
     font-size: 250%;
     color: crimson;
+}
+
+nav {
+    background-color: crimson;
+    float: left;
+    height: 90vh;
+    padding: 15px;
 }
 
 #container {
