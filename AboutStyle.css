@@ -39,16 +39,3 @@ h1 {
 #container {
     padding: 2px 16px;
 }
-.linked {
-    background-color: mistyrose;
-    color: crimson;
-    text-transform: uppercase;
-    text-decoration: none;
-    margin: 5px;
-    padding: 1em 1.5em;
-    display: block;
-    border-radius: 22px;
-}
-.linked:hover {
-    background-color: navy;
-}
