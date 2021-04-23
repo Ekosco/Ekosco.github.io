@@ -4,7 +4,7 @@ body {
 
 #img {
     border-radius: 5px 5px 0 0;
-    width: 100%
+    width: 100%;
 }
 
 .card {
@@ -12,10 +12,11 @@ body {
     transition: 0.3s;
     border-radius: 5px;
     display: inline-block;
-    max-width: 300px;
+    max-width: 1000px;
     padding: 4px 4px;
     margin: 10px;
     background-color: white;
+    align-content: center;
 }
 
     .card :hover {
@@ -26,8 +27,8 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 250%;
-    color: greenyellow;
+    font-size: 300%;
+    color: crimson;
 }
 
 #container {
