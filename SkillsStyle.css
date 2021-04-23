@@ -4,7 +4,7 @@ body {
 
 #img {
     padding: 5%, 5%, 5%, 5%;
-    max-height: 10vw;
+    max-height: 5vw;
 }
 
 .card {
@@ -13,7 +13,7 @@ body {
     transition: 0.3s;
     border-radius: 5px;
     display: inline-block;
-    width: 30vw;
+    width: 15vw;
     padding: 4px 4px;
     margin: 10px;
     background-color: white;
