@@ -7,11 +7,7 @@ body {
     width: 25%;
     height: 500px;
 }
-/*.cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}*/
+
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -22,13 +18,6 @@ body {
     margin: 10px;
     background-color: white;
 }
-/*div.card {
-    overflow: hidden;
-}*/
-
-/*.col {
-    display: table-cell;*/ /* Make elements inside the container behave like table cells */
-/*}*/
 
     .card :hover {
         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
